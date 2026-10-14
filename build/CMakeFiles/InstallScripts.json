@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/wassou/Projects/cpp/wx-hello/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

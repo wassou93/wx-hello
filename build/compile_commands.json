@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/wassou/Projects/cpp/wx-hello/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK3__ -D__WXGTK__ -isystem /usr/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/include/wx-3.2 -std=gnu++20 -o CMakeFiles/wx_hello.dir/src/main.cpp.o -c /home/wassou/Projects/cpp/wx-hello/src/main.cpp",
+  "file": "/home/wassou/Projects/cpp/wx-hello/src/main.cpp",
+  "output": "CMakeFiles/wx_hello.dir/src/main.cpp.o"
+}
+]

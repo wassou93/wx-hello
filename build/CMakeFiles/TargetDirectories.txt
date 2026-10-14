@@ -1,0 +1,3 @@
+/home/wassou/Projects/cpp/wx-hello/build/CMakeFiles/wx_hello.dir
+/home/wassou/Projects/cpp/wx-hello/build/CMakeFiles/edit_cache.dir
+/home/wassou/Projects/cpp/wx-hello/build/CMakeFiles/rebuild_cache.dir
